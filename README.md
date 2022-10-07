@@ -10,7 +10,7 @@ I'm a computer geek, anything to do with networking, development and the like ta
 
 <p float="left">
 
-<a href="https://www.youtube.com/c/UCsWUThd4cMJY3OXT8depQTw" title="Redirect to YouTube">
+<a href="https://www.youtube.com/channel/UCsWUThd4cMJY3OXT8depQTw" title="Redirect to YouTube">
     <img src="/assets/youtube.png" width="120" alt="YouTube" />
   </a>
   
