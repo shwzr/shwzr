@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm a computer geek, anything to do with networking, development and the like takes the words out of my mouth. At this point, I am still a beginner, but I intend to become a computer engineer.
 
