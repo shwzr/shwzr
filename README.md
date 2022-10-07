@@ -1,9 +1,9 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <img align="right" height="107px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-<h3>I'm a computer geek, anything to do with networking,</h3>
-<h3>development and the like takes the words out of my mouth.</h3>
-<h3>At this point, I am still a beginner, but I intend to become a computer engineer.</h3>
+<p>I'm a computer geek, anything to do with networking,</p>
+<p>development and the like takes the words out of my mouth.</p>
+<p>At this point, I am still a beginner, but I intend to become a computer engineer.</p>
 <br>
 <br>
 
