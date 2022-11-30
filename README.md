@@ -11,15 +11,13 @@
 <h2> Links 🔗</h2>
 
 <p float="left">
-
 <a href="https://www.youtube.com/channel/UCsWUThd4cMJY3OXT8depQTw" title="Redirect to YouTube">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
   </a>
   
   <a href="https://twitter.com/showzur" title="Redirect to Twitter">
-    <img alt="Twitter" src="https://camo.githubusercontent.com/b2cd48af2c91f407a2ead4a09f7eeb5d7271c861a9c7b17aa805da83e994f5bd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f747769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-  
   <a href="https://www.instagram.com/showzur/" title="Redirect to Instagram">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
