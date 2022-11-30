@@ -19,6 +19,9 @@
   <a href="https://www.tiktok.com/@showzur" title="Redirect to TikTok">
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
+  <a href="https://anilist.co/user/showzur" title="Redirect to Anilist">
+    <img alt="Anilist" src="https://img.shields.io/static/v1?style=for-the-badge&message=AniList&color=02A9FF&logo=AniList&logoColor=FFFFFF&label=">
+  </a>
   <a href="https://www.pinterest.com/showzur/" title="Redirect to Pinterest">
     <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
   </a>
