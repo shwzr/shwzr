@@ -16,7 +16,7 @@
   <a href="https://www.instagram.com/showzur/" title="Redirect to Instagram">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/showzur/" title="Redirect to Pinterest">
+  <a href="https://www.pinterest.com/showzur/" title="Redirect to Pinterest">
     <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
   </a>
 </p>
