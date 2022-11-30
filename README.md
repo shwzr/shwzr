@@ -19,8 +19,8 @@
   <a href="https://www.tiktok.com/@showzur" title="Redirect to TikTok">
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
-  <a href="" title="Redirect to Spotify">
-    <img alt="Spotify" src="https://open.spotify.com/user/kaelinwalsh">
+  <a href="https://open.spotify.com/user/kaelinwalsh" title="Redirect to Spotify">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
   <a href="https://anilist.co/user/showzur" title="Redirect to Anilist">
     <img alt="Anilist" src="https://img.shields.io/static/v1?style=for-the-badge&message=AniList&color=02A9FF&logo=AniList&logoColor=FFFFFF&label=">
