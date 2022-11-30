@@ -22,5 +22,8 @@
   <a href="https://www.tiktok.com/@showzur" title="Redirect to TikTok">
     <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
   </a>
+  <a href="https://gitlab.com/shwzr" title="Redirect to GitLab">
+    <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
+  </a>
 </p>
-https://gitlab.com/shwzr
+
