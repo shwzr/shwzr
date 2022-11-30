@@ -19,4 +19,7 @@
   <a href="https://www.pinterest.com/showzur/" title="Redirect to Pinterest">
     <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
   </a>
+  <a href="https://www.tiktok.com/@showzur" title="Redirect to TikTok">
+    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  </a>
 </p>
