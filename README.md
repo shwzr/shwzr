@@ -2,7 +2,7 @@
 <img height="170px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <div style:float="right">
-    [nord]: https://github-readme-stats.vercel.app/api?username=shwzr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord
+[nord]:https://github-readme-stats.vercel.app/api?username=shwzr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord
 </div>
 
 # Techstack ∵
