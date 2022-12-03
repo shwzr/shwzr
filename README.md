@@ -1,12 +1,6 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img height="170px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-
-
-<br>
-[nord]:https://github-readme-stats.vercel.app/api?username=shwzr&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord
-
-
 # Techstack ∵
 
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img alt="KaliLinux" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <img alt="Debian" src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"> <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img alt="Cisco" src="https://img.shields.io/static/v1?style=for-the-badge&message=Cisco&color=1BA0D7&logo=Cisco&logoColor=FFFFFF&label="> <img alt="VS Code" src="https://i.imgur.com/ryeVifj_d.webp?maxwidth=760&fidelity=grand"> <img alt="Sublime Text" src="https://img.shields.io/static/v1?style=for-the-badge&message=Sublime+Text&color=222222&logo=Sublime+Text&logoColor=FF9800&label="> <img alt="HTML" src="https://i.imgur.com/V9Y95DO_d.webp?maxwidth=760&fidelity=grand"> <img alt="CSS" src="https://i.imgur.com/C9Bif3O_d.webp?maxwidth=760&fidelity=grand"> <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"> <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"> <img alt="Apache" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label="> <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?&style=for-the-badge&logo=docker&logoColor=white" /> <img alt="Portainer" src="https://img.shields.io/static/v1?style=for-the-badge&message=Portainer&color=222222&logo=Portainer&logoColor=13BEF9&label="> <img alt="PhpMyAdmin" src="https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=">
