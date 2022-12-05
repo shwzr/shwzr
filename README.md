@@ -1,7 +1,7 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <ul>
     <img height="170px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-    <img height="170px" alt="IMG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwzr" />
+    <img height="190px" alt="IMG" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shwzr&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777" />
 </ul>
 
 # Techstack ∵
