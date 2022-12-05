@@ -1,6 +1,6 @@
 <style>
 .img1 {
-  float: left;
+  float: right;
 }
 </style>
 
