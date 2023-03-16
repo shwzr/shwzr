@@ -20,9 +20,6 @@
   <a href="https://www.instagram.com/showzur/" title="Redirect to Instagram">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://www.tiktok.com/@showzur" title="Redirect to TikTok">
-    <img alt="TikTok" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
-  </a>
   <a href="https://open.spotify.com/user/kaelinwalsh" title="Redirect to Spotify">
     <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
