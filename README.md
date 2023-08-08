@@ -4,6 +4,6 @@
        @p~qp~~qMb                OS: "Debian/Windows"
        M|@||@) M|                Languages: ["Py", "Js", "NodeJs"]
        @,----.JM|                Hobbies: ["Gaming", "Coding"]
-      JS^\__/  qKL               Email: "showzur"
+      JS^\__/  qKL               Email: "showzur@mail.com"
      dZP        qKRb             Discord: "https://discord.gg/B9PrK625xp"
     dZP          qKKb            --------------------------------------
