@@ -1,9 +1,9 @@
 ```python
-     _nnnn_          
-    dGGGGMMb       --------------------------- 
-   @p~qp~~qMb      OS: "Debian/Windows"
-   M|@||@) M|      Languages: "Py/Js/NodeJs"
-   @,----.JM|      Hobbies: "Gaming/Coding"
-  JS^\__/  qKL     ---------------------------
+     _nnnn_      ---------------------------    
+    dGGGGMMb     OS: "Debian/Windows"
+   @p~qp~~qMb    Languages: "Py/Js/NodeJs"
+   M|@||@) M|    Languages: "Py/Js/NodeJs"
+   @,----.JM|    ---------------------------
+  JS^\__/  qKL     
  dZP        qKRb     
 dZP          qKKb    
